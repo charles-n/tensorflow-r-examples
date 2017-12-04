@@ -1,3 +1,5 @@
+library(tensorflow)
+
 ##########################################
 #### multivariate line fitting example
 ##########################################
